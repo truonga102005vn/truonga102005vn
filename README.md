@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jeremial (Trưởng)</h1>
-<h3 align="center">A passionate Frontend & Software Developer from 🇻🇳 Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Jeremial</h1>
+<h3 align="center">A passionate Frontend & Software Developer from Vietnam</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -8,8 +8,8 @@
 - 🌱 Currently learning **Python**, **Django**, **SQL Server**, **JavaScript**, and **Java**
 - 🤝 I’m looking to collaborate on **open-source projects** or **educational platforms**
 - 💬 Ask me about **React, Node.js, or Web Development**
-- 📫 Reach me via: **[your-email@example.com]**
-- 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Facebook](https://www.facebook.com/your-facebook)
+- 📫 Reach me via: atruong102005@gmail.com
+- 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/truong-a-376a9b331/) | [Facebook](https://www.facebook.com/truonga052005vn/)
 - ⚡ Fun fact: I love turning ideas into real web applications!
 
 ---
