@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeremial</h1>
+<h1 align="center">Hi!, I'm Jeremial</h1>
 <h3 align="center">A passionate Frontend & Software Developer from Vietnam</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -34,6 +34,6 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://facebook.com/your-facebook" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="30"/></a>
+  <a href="https://www.linkedin.com/in/truong-a-376a9b331/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://www.facebook.com/truonga052005vn/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="30"/></a>
 </p>
