@@ -17,7 +17,7 @@
 ### 🛠️ Languages and Tools:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,py,django,java,html,css,tailwind,git,github,vscode,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,py,django,java,html,css,git,github,vscode,sqlserver" />
 </p>
 
 ---
@@ -31,25 +31,8 @@
 
 ---
 
-### 📌 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🗓️ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=fdfdfd&area=true&hide_border=true" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/truong-a-376a9b331/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://www.facebook.com/truonga052005vn/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="30"/></a>
 </p>
