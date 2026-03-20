@@ -1,114 +1,121 @@
+[comment]: # (======================================================)
+[comment]: # (  PHẦN 1: HEADER - Banner trên cùng)
+[comment]: # (  Chỉnh: text= là tên hiển thị, desc= là mô tả phụ)
+[comment]: # (  color= là màu gradient, height= là chiều cao banner)
+[comment]: # (======================================================)
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Truongwr&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Frontend%20%26%20Software%20Developer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0d2137,100:0d3b6e&height=170&section=header&text=Trưởng&fontSize=65&fontColor=58a6ff&fontAlignY=45&desc=IT%20Student%20%C2%B7%20Software%20Developer%20%C2%B7%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=68&descSize=14&descColor=8b949e" width="100%"/>
 
-<br/>
-
-<!-- Typing Animation -->
+[comment]: # (-------------------------------------------------------)
+[comment]: # (  PHẦN 2: TYPING ANIMATION - Chữ chạy tự động)
+[comment]: # (  Chỉnh: lines= là các câu hiển thị, ngăn cách bằng |)
+[comment]: # (  size= là cỡ chữ, color= là màu chữ)
+[comment]: # (-------------------------------------------------------)
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+component+at+a+time;ReactJS+%7C+NodeJS+%7C+Full-Stack+Dev;Turning+ideas+into+real+web+apps+%E2%9A%A1;Open+to+collaborations+%26+open-source!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Studying+Software+Development+%40+%C4%90%C3%B4ng+%C3%81;Specializing+in+ReactJS+%26+NodeJS;Exploring+Python+%7C+Django+%7C+Java;Always+learning%2C+always+building+%F0%9F%9A%80" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=truongwr&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" />
-  <a href="https://www.linkedin.com/in/truong-a-376a9b331/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/truonga052005vn/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="mailto:atruong102005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+[comment]: # (-------------------------------------------------------)
+[comment]: # (  PHẦN 3: BADGES - Nút mạng xã hội)
+[comment]: # (  Chỉnh: href= là đường link, label= là tên hiển thị)
+[comment]: # (  logoColor= là màu icon)
+[comment]: # (-------------------------------------------------------)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:atruong102005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/truong-a-376a9b331/)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=flat-square&logo=facebook&logoColor=1877F2)](https://www.facebook.com/truonga052005vn/)
+[![Profile Views](https://komarev.com/ghpvc/?username=truongwr&style=flat-square&color=58a6ff&labelColor=0d1117&label=visitors)](https://github.com/truongwr)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+[comment]: # (======================================================)
+[comment]: # (  PHẦN 4: ABOUT ME - Thông tin cá nhân)
+[comment]: # (  Chỉnh trực tiếp các dòng bên trong block ```)
+[comment]: # (  GIF bên phải: thay src= bằng link GIF khác nếu muốn)
+[comment]: # (  width= là kích thước ảnh GIF)
+[comment]: # (======================================================)
+### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="210"/>
 
 ```yaml
-name       : Truongwr
-location   : 🇻🇳 Vietnam
-education  : Software Development @ Đại Học Đông Á
-role       : Frontend & Full-Stack Developer
-focus      : ReactJS · NodeJS · Web Applications
-status     : Open to collaboration & internships
-fun_fact   : I love turning ideas into real web apps ⚡
+university : Đại Học Đông Á
+major      : Software Development
+focus      : Frontend · Full-Stack
+stack      : ReactJS · NodeJS · Python
+learning   : Django · Java · SQL Server
+seeking    : Open-source · Internship
+email      : atruong102005@gmail.com
 ```
 
-- 🎓 Đang học **Software Development** tại **Đại Học Đông Á**
-- 💻 Chuyên về **Frontend** với **ReactJS**, cũng làm việc với **NodeJS**
-- 🌱 Đang học thêm: **Python**, **Django**, **SQL Server**, **JavaScript**, **Java**
-- 🤝 Mong muốn hợp tác trong các **dự án open-source** hoặc **nền tảng giáo dục**
-- 💬 Hỏi tôi về: **React, Node.js, Web Development**
-- 📫 Email: [atruong102005@gmail.com](mailto:atruong102005@gmail.com)
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+[comment]: # (======================================================)
+[comment]: # (  PHẦN 5: TECH STACK - Bộ công cụ & ngôn ngữ)
+[comment]: # (  Chỉnh: i= là danh sách icon, ngăn cách bằng dấu phẩy)
+[comment]: # (  Xem toàn bộ icon tại: https://skillicons.dev)
+[comment]: # (  theme=dark hoặc theme=light)
+[comment]: # (======================================================)
+### 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,js,ts" />
+**Frontend**
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,java,sqlserver" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark"/>
 
-### Dev Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+**Backend · Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,java,sqlserver&theme=dark"/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+[comment]: # (======================================================)
+[comment]: # (  PHẦN 6: GITHUB STATS - Thống kê GitHub)
+[comment]: # (  ⚠️ QUAN TRỌNG: Thay truongwr = username GitHub của bạn)
+[comment]: # (  theme= đổi giao diện, bg_color= màu nền card)
+[comment]: # (  title_color= màu tiêu đề, text_color= màu chữ)
+[comment]: # (======================================================)
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=truongwr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongwr&layout=compact&theme=tokyonight&hide_border=true" />
+[comment]: # (  Card 1: Tổng quan - stars, commits, PRs...)
+<img height="158" src="https://github-readme-stats.vercel.app/api?username=truonga102005vn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true"/>
+
+[comment]: # (  Card 2: Ngôn ngữ sử dụng nhiều nhất)
+<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truonga102005vn&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=truongwr&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=truongwr&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+[comment]: # (  Card 3: Streak - chuỗi ngày commit liên tiếp)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=truongwr&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=truongwr&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="95%"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
+[comment]: # (======================================================)
+[comment]: # (  PHẦN 7: FOOTER - Banner dưới cùng)
+[comment]: # (  Chỉnh: text ở thẻ <sub> để thay tên & năm)
+[comment]: # (  color= gradient ngược lại so với header)
+[comment]: # (======================================================)
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | [atruong102005@gmail.com](mailto:atruong102005@gmail.com) |
-| 💼 LinkedIn | [truong-a-376a9b331](https://www.linkedin.com/in/truong-a-376a9b331/) |
-| 📘 Facebook | [truonga052005vn](https://www.facebook.com/truonga052005vn/) |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b6e,60:0d2137,100:0d1117&height=100&section=footer" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
+<sub>© 2025 <b>Trưởng</b> · Software Development Student · Vietnam 🇻🇳</sub>
 
 </div>
